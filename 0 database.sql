@@ -1,2 +1,3 @@
 create database HumanBodyDB
-go 
+go
+using HumanBodyDB
